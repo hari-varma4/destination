@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.hhh {
+  display: flex;
+  justify-content: center;
+}
+.dsc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+.h {
+  text-align: center;
+  color: #252627;
+  font-family: Roboto;
+  font-size: 48px;
+  margin: 40px;
+}
+.sic {
+  display: flex;
+  background-color: #f1f5f9;
+}
+.si {
+  height: 20px;
+  width: 20px;
+}
+.dll {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.item {
+  list-style-type: none;
+  width: 235px;
+  margin: 30px;
+}
+.img {
+  width: 235px;
+  height: 175px;
+}
+.hh {
+  color: black;
+  font-size: 16px;
+}
